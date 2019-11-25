@@ -1,1 +1,1 @@
-# js-simple-calculator
+# js-simple-calculator for learning
